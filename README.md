@@ -2,4 +2,4 @@
 
 Homepage using HTML and CSS
 
-[live Demo](https://rushilriyaz.github.io/landing-page/) 👈
+[live Demo](https://RushilRiyaz.github.io/landing-page/) 👈
