@@ -48,6 +48,7 @@ li {
   /* border: 2px solid red; */
   display: flex;
   padding: 80px 160px 80px 160px;
+  justify-content: center;
   gap: 40px;
 }
 
@@ -234,3 +235,5 @@ img {
   font-size: 12px;
   color: #f9faf8;
 }
+
+/* ! End of footer */
