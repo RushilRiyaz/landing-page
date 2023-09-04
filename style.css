@@ -95,7 +95,7 @@ button {
 /* ! Start of content2 */
 
 .content2 {
-  border: 2px solid purple;
+  /* border: 2px solid purple; */
 }
 
 .title {
@@ -141,3 +141,35 @@ img {
 /* ! End of content2 */
 
 /* ! Start of content3 */
+
+.content3 {
+  /* border: 2px solid green; */
+  background: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 90px;
+}
+
+.quote {
+  /* border: 2px solid black; */
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 100;
+  font-family: "Times New Roman", Times, serif;
+  width: 800px;
+}
+
+.qoutee {
+  /* border: 2px solid purple; */
+  font-size: 20px;
+  font-weight: 1000;
+  width: 800px;
+  text-align: right;
+}
+
+/* ! End of content3 */
+
+/* ! Start of content4 */
+
