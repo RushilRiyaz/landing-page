@@ -71,7 +71,7 @@ li {
   margin-bottom: 5px;
 }
 
-button {
+.signup1 {
   font-size: 18px;
   color: #f9faf8;
   background: #3882f6;
@@ -173,3 +173,52 @@ img {
 
 /* ! Start of content4 */
 
+.content4 {
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px;
+}
+
+.container {
+  /* border: 2px solid purple; */
+  background: #3882f6;
+  display: flex;
+  padding: 30px;
+  width: 800px;
+  border-radius: 12px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text2 {
+  /* border: 2px solid red; */
+  color: #f9faf8;
+  font-size: 18px;
+}
+
+.text3 {
+  /* border: 2px solid red; */
+  font-size: 15px;
+  color: rgb(203, 203, 203);
+}
+
+.left2 {
+  margin-left: 40px;
+}
+
+.right2 {
+  margin-right: 40px;
+}
+
+.signup2 {
+  font-size: 18px;
+  color: #f9faf8;
+  background: #3882f6;
+  border-radius: 12px;
+  padding: 7.5px 35px;
+  border: solid #f9faf8;
+}
+
+/* ! End of content4 */
